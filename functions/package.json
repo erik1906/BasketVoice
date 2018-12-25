@@ -1,7 +1,7 @@
 {
-  "name": "codelab-level-one",
-  "description": "Actions on Google Codelab Level 1",
-  "author": "Google Inc",
+  "name": "Basketball feed",
+  "description": "Basketball feed",
+  "author": "Erik Martin",
   "private": true,
   "scripts": {
     "lint": "eslint .",
