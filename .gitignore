@@ -2,3 +2,4 @@
 *.gsheet
 ConversationFlow.md
 node_modules
+*.txt
